@@ -16,5 +16,5 @@ env/
 .DS_Store
 Thumbs.db
 
-# Large data files (uncomment if you want to exclude CSV files)
-# *.csv
+# Large data files - excluded due to GitHub size limits
+*.csv

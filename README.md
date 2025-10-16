@@ -19,7 +19,10 @@ By leveraging data analysis, we aim to build a data-driven strategy to help the 
 
 * **`credit_loan_analysis.ipynb`**: A Jupyter Notebook containing the Python code for the exploratory data analysis (EDA). It includes data cleaning, processing, and visualization steps.
 * **`Credit card loan analysis.pdf`**: A presentation summarizing the project's introduction, business problem, analysis, and key findings.
-* **`correlation_heatmap.png`**: An image of the correlation matrix, which helps visualize the relationships between different variables in the dataset.
+* **`Dashboard.png`**: Dashboard visualization showing key insights from the analysis.
+
+### 📊 Data Files
+The original dataset files (`application_data.csv` and `previous_application.csv`) are not included in this repository due to GitHub's file size limitations (files are 158MB and 386MB respectively). The analysis and visualizations in the notebook demonstrate the insights derived from this data.
 
 
 
